@@ -27,6 +27,14 @@ https://iescapdepera.com/2026/02/11/carnestoltes-2026-institut-terrorific/
 <pubDate>
 Wed, 11 Feb 2026 15:00:00 +0200
 </pubDate>
+  
+<category>
+activitats
+</category>
+
+<author>
+admin@admin.cat
+</author>
 </item>
 
 <!-- ################################################ -->
@@ -52,10 +60,54 @@ https://iescapdepera.com/2025/09/17/segones-llistes-definitives-admissio-fp/
 <pubDate>
 Wed, 17 Sep 2025 15:00:00 +0200
 </pubDate>
+
+<category>
+informacio
+</category>
+
+<author>
+admin@admin.cat
+</author>
+
+</item>
+
+<!-- ################################################ -->
+
+<item>
+
+<title>
+Activitats 25N
+</title>
+
+<description>
+<![CDATA[
+<div>
+Activitats i tallers per al 25N al centre IES Capdepera <img src="https://iescapdepera.com/wp-content/uploads/sites/86/2025/11/Co%CC%80pia-de-Cartel-25-noviembre-Fotografi%CC%81a-Morado-1-724x1024.jpg">
+</div>
+]]>
+</description>
+
+<link>
+https://iescapdepera.com/2025/11/18/activitats-25n/
+</link>
+
+<pubDate>
+Tue, 18 Nov 2025 15:00:00 +0200
+</pubDate>
+
+<category>
+activitats
+</category>
+
+<author>
+admin@admin.cat
+</author>
+
 </item>
 
 <!-- ################################################ -->
 
 
+<language>ca</language>
 </channel>
 </rss>
